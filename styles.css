@@ -1,4 +1,10 @@
+body {
+    margin-top: 50%;
+    margin-bottom: 50%;
+    text-align: center;
+}
 #clockContainer{  
+    text-align: center;
     position: relative;
     margin: auto;
     height: 40vw;
